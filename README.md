@@ -61,7 +61,7 @@ PlatAR is currently a prototype under active development. Planned improvements i
 
 ## 📷 Screenshots / Demo
 
-![PlatAR Screenshot](assets/screenshot-platar.png)
+![PlatAR Screenshot](assets/assets/screenshot-platar.png)
 
 ---
 
